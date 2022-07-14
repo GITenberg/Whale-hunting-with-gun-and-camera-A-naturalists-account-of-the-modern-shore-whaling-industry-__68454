@@ -1,0 +1,31 @@
+_repo: Whale-hunting-with-gun-and-camera-A-naturalists-account-of-the-modern-shore-whaling-industry-__68454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Roy Chapman
+    birthdate: 1884
+    deathdate: 1960
+    gutenberg_agent_id: '4301'
+    url: http://www.gutenberg.org/2009/agents/4301
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Chapman_Andrews
+description: ''
+gutenberg_issued: '2022-07-04'
+identifiers:
+  gutenberg: '68454'
+language: en
+pgterms:marc904: https://archive.org/details/whalehuntingwith00andrrich
+pgterms:marc905: 20181120145643andrews
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :D. Appleton and Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Whale hunting with gun and camera: A naturalist’s account of the modern shore-whaling
+  industry, of whales and their habits, and of hunting experiences in various parts
+  of the world'
+url: http://www.gutenberg.org/ebooks/68454
